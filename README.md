@@ -120,11 +120,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white" alt="dev-quote" />
 </p>
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sania-ali19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sania-ali19&layout=compact&theme=dark)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=sania-ali19&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
 ### 🖼️ Visualizations:
