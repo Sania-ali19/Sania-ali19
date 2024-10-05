@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sania-ali19&label=Profile%20views&color=0e75b6&style=flat" alt="sania-ali19" />
+  <img src="https://komarev.com/ghpvc/?username=sania-ali19&label=Profile%20views&color=0e75b6&style=circle" alt="sania-ali19" />
 </p>
 
 <p align="center">
@@ -98,7 +98,6 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_word/microsoft_word-icon.svg" alt="Word" width="40" height="40" />
   </a>
 </p>
-
 <h2>📊 GitHub Stats:</h2>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=sania-ali19&theme=white&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
@@ -126,7 +125,7 @@
 
 <p>
     <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=sania-ali19&icon=0&color=white" alt="Profile Visit Count">
+        <img src="https://visitcount.itsvg.in/api?id=sania-ali19&icon=2&color=white" alt="Profile Visit Count">
     </a>
 </p>
 
