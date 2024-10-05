@@ -119,27 +119,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white" alt="dev-quote" />
 </p>
-
-
-
----
-### 📅 Contributions in the Last Year:
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sania-ali19&theme=white" alt="GitHub activity graph" />
-</p>
-
-### Popular Repositories:
-<p align="center">
-  <img src="path-to-your-chart-image.png" alt="Popular Repositories" width="600" height="400">
-</p>
-### 🔥 Popular Repositories
-- [Project 1: Machine Learning](https://github.com/sania-ali19/project1)
-  ![Python](https://img.shields.io/badge/python-3.9-blue)
-  ![TensorFlow](https://img.shields.io/badge/tensorflow-2.4-orange)
-  
-- [Project 2: Frontend Development](https://github.com/sania-ali19/project2)
-  ![React](https://img.shields.io/badge/react-17.0-blue)
-  ![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow)
   
 ### 🖼️ Visualizations:
 <p align="center">
