@@ -127,9 +127,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Popular Repositories" width="600" height="400">
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="data-science-gif" width="600" height="300">
-</p>
+
 
 
 
