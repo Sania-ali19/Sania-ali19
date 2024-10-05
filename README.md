@@ -98,6 +98,10 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_word/microsoft_word-icon.svg" alt="Word" width="40" height="40" />
   </a>
 </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sania-ali19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sania-ali19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sania-ali19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
