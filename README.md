@@ -119,8 +119,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=white" alt="dev-quote" />
 </p>
-### 🔝 Top Contributed Repo
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sania-ali19&layout=compact&theme=dark)
+
 
 
   
